@@ -10,8 +10,6 @@ function App() {
       margin: 0,
       boxSizing: 'border-box'
     }}>
-      
-      {/* 1. NAVBAR */}
       <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '25px 8%', borderBottom: '1px solid #292929' }}>
         <div style={{ fontWeight: 'bold', fontSize: '22px' }}>Tomasz Gajda</div>
         <ul style={{ display: 'flex', listStyleType: 'none', gap: '35px', margin: 0, padding: 0 }}>
